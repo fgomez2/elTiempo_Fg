@@ -30,7 +30,7 @@ A weather forecast web application that allows users to check the current weathe
 
 ## URL
 - [EL TIEMPO BY FER](https://eltiempobyfer.netlify.app)
-- 
+  
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
