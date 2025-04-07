@@ -28,10 +28,9 @@ A weather forecast web application that allows users to check the current weathe
 
 
 
-## Customization
-To use your own OpenWeatherMap API key:
-- Get a free API key from OpenWeatherMap
-- Replace the API_KEY constant in main.js
+## URL
+- [EL TIEMPO BY FER](https://eltiempobyfer.netlify.app)
+- 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
